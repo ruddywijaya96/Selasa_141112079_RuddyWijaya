@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\bin\Debug\Latihan_1_2.exe.config
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\obj\Debug\Latihan_1_2.exe
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\obj\Debug\Latihan_1_2.pdb
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\bin\Debug\Latihan_1_2.exe
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\bin\Debug\Latihan_1_2.pdb
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\obj\Debug\Latihan_1_2.Form1.resources
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\obj\Debug\Latihan_1_2.Properties.Resources.resources
+C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_2\obj\Debug\Tugas 1_2.csproj.GenerateResource.Cache
