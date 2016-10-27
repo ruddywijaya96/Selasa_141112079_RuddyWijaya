@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\bin\Debug\Tugas 1_1.exe.config
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\bin\Debug\Tugas 1_1.exe
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\bin\Debug\Tugas 1_1.pdb
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\obj\Debug\Tugas 1_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\obj\Debug\Tugas_1_1.Properties.Resources.resources
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\obj\Debug\Tugas 1_1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\obj\Debug\Tugas 1_1.exe
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 1_1\Tugas 1_1\obj\Debug\Tugas 1_1.pdb
+=======
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.exe
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
@@ -7,3 +17,4 @@ C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
 C:\Users\User\Desktop\Selasa_141112079_Ruddy Wijaya\Latihan_1_1\Latihan_1_1\obj\Debug\Tugas 1_1.csproj.GenerateResource.Cache
+>>>>>>> 07a3286f7de6a7ae71a65ca9fbe394027c46ea96

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\bin\Debug\Tugas 2_1.exe.config
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas 2_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas_2_1.Form1.resources
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas_2_1.Properties.Resources.resources
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas 2_1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\bin\Debug\Tugas 2_1.exe
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\bin\Debug\Tugas 2_1.pdb
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas 2_1.exe
+C:\Users\User\Desktop\Selasa_141112079_RuddyWijaya\Latihan 2_1\Tugas 2_1\obj\Debug\Tugas 2_1.pdb
