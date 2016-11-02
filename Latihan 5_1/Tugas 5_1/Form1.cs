@@ -124,10 +124,7 @@ namespace Tugas_5_1
             textboxArea.Text = textboxArea.Text.Remove(textboxArea.SelectionStart, textboxArea.SelectionLength);
         }
 
-        private void textboxArea_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
     }
 }
