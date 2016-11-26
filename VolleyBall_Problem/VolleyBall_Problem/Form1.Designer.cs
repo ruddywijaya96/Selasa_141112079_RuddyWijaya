@@ -28,25 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.rslt2 = new System.Windows.Forms.TextBox();
+            this.TxtHasil = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
-            this.Btnresult = new System.Windows.Forms.Button();
-            this.scoreb = new System.Windows.Forms.TextBox();
+            this.BtnHitung = new System.Windows.Forms.Button();
+            this.Txt2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.scorea = new System.Windows.Forms.TextBox();
+            this.Txt1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // rslt2
+            // TxtHasil
             // 
-            this.rslt2.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.rslt2.ForeColor = System.Drawing.Color.White;
-            this.rslt2.Location = new System.Drawing.Point(99, 166);
-            this.rslt2.Name = "rslt2";
-            this.rslt2.Size = new System.Drawing.Size(100, 20);
-            this.rslt2.TabIndex = 15;
-            this.rslt2.TextChanged += new System.EventHandler(this.rslt2_TextChanged);
+            this.TxtHasil.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.TxtHasil.ForeColor = System.Drawing.Color.Black;
+            this.TxtHasil.Location = new System.Drawing.Point(99, 166);
+            this.TxtHasil.Name = "TxtHasil";
+            this.TxtHasil.Size = new System.Drawing.Size(100, 20);
+            this.TxtHasil.TabIndex = 15;
+            this.TxtHasil.TextChanged += new System.EventHandler(this.rslt2_TextChanged);
             // 
             // button2
             // 
@@ -60,24 +60,24 @@
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
-            // Btnresult
+            // BtnHitung
             // 
-            this.Btnresult.BackColor = System.Drawing.Color.PeachPuff;
-            this.Btnresult.ForeColor = System.Drawing.Color.Black;
-            this.Btnresult.Location = new System.Drawing.Point(110, 121);
-            this.Btnresult.Name = "Btnresult";
-            this.Btnresult.Size = new System.Drawing.Size(75, 23);
-            this.Btnresult.TabIndex = 13;
-            this.Btnresult.Text = "Hasil";
-            this.Btnresult.UseVisualStyleBackColor = false;
-            this.Btnresult.Click += new System.EventHandler(this.Btnresult_Click);
+            this.BtnHitung.BackColor = System.Drawing.Color.PeachPuff;
+            this.BtnHitung.ForeColor = System.Drawing.Color.Black;
+            this.BtnHitung.Location = new System.Drawing.Point(110, 121);
+            this.BtnHitung.Name = "BtnHitung";
+            this.BtnHitung.Size = new System.Drawing.Size(75, 23);
+            this.BtnHitung.TabIndex = 13;
+            this.BtnHitung.Text = "Hasil";
+            this.BtnHitung.UseVisualStyleBackColor = false;
+            this.BtnHitung.Click += new System.EventHandler(this.Btnresult_Click);
             // 
-            // scoreb
+            // Txt2
             // 
-            this.scoreb.Location = new System.Drawing.Point(99, 84);
-            this.scoreb.Name = "scoreb";
-            this.scoreb.Size = new System.Drawing.Size(120, 20);
-            this.scoreb.TabIndex = 12;
+            this.Txt2.Location = new System.Drawing.Point(99, 84);
+            this.Txt2.Name = "Txt2";
+            this.Txt2.Size = new System.Drawing.Size(120, 20);
+            this.Txt2.TabIndex = 12;
             // 
             // label3
             // 
@@ -89,12 +89,12 @@
             this.label3.TabIndex = 11;
             this.label3.Text = "Skor B";
             // 
-            // scorea
+            // Txt1
             // 
-            this.scorea.Location = new System.Drawing.Point(99, 45);
-            this.scorea.Name = "scorea";
-            this.scorea.Size = new System.Drawing.Size(120, 20);
-            this.scorea.TabIndex = 10;
+            this.Txt1.Location = new System.Drawing.Point(99, 45);
+            this.Txt1.Name = "Txt1";
+            this.Txt1.Size = new System.Drawing.Size(120, 20);
+            this.Txt1.TabIndex = 10;
             // 
             // label2
             // 
@@ -123,12 +123,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.rslt2);
+            this.Controls.Add(this.TxtHasil);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.Btnresult);
-            this.Controls.Add(this.scoreb);
+            this.Controls.Add(this.BtnHitung);
+            this.Controls.Add(this.Txt2);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.scorea);
+            this.Controls.Add(this.Txt1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.Color.DarkOrange;
@@ -141,12 +141,12 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox rslt2;
+        private System.Windows.Forms.TextBox TxtHasil;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button Btnresult;
-        private System.Windows.Forms.TextBox scoreb;
+        private System.Windows.Forms.Button BtnHitung;
+        private System.Windows.Forms.TextBox Txt2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox scorea;
+        private System.Windows.Forms.TextBox Txt1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
 

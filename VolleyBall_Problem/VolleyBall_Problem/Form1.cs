@@ -76,8 +76,8 @@ namespace VolleyBall_Problem
         }
         private void Btnresult_Click(object sender, EventArgs e)
         {
-            var x = Convert.ToInt32(scorea.Text);
-            var y = Convert.ToInt32(scoreb.Text);
+            var x = Convert.ToInt32(Txt1.Text);
+            var y = Convert.ToInt32(Txt2.Text);
             int hasil;
 
             if (x < y) Swap(ref x, ref y);
@@ -97,7 +97,7 @@ namespace VolleyBall_Problem
                     hasil = nCr(x - 1, y, Modular);
                 }
             }
-            rslt2.Text = hasil.ToString();
+            TxtHasil.Text = hasil.ToString();
         }
 
         
